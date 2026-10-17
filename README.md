@@ -22,3 +22,9 @@ Dr. Brum also identified an additional finding documented in my medical records 
 She specifically recommended bringing this finding to the attention of my current ophthalmologist for further evaluation and appropriate monitoring.
 
 According to Dr. Brum, this corneal abnormality is unrelated to my strabismus but represents a separate ophthalmological condition that should also be monitored.
+
+
+# Exames
+
+- Consulation Dr. Malgorzata Kochana 19/09/2025 - [here](recommendation-dr-malgorzata-kochana.pdf)
+- Diplogram - 21/07/2023 - [here](diplogram-exam.pdf)
