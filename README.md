@@ -26,5 +26,6 @@ According to Dr. Brum, this corneal abnormality is unrelated to my strabismus bu
 
 # Exames
 
-- Consulation Dr. Malgorzata Kochana 19/09/2025 - [here](recommendation-dr-malgorzata-kochana.pdf)
+- Consultation Dr. Ewa Zanojska 29/10/2026 - [examination records](dr-ewa-zanojska_karta_badania_okulistycznego.pdf)
+- Consultation Dr. Malgorzata Kochana 19/09/2025 - [examination records](recommendation-dr-malgorzata-kochana.pdf)
 - Diplogram - 21/07/2023 - [here](diplogram-exam.pdf)
